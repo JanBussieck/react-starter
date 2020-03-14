@@ -42,3 +42,20 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+A scaffold for building complex react applications:
+- Connect item in list
+
+## Typescript
+## Linting
+eslint and prettier run on staged files in a pre-commit hook.
+
+## Testing
+## Style Guide
+Styleguidist
+
+## Redux
+
+Do the heavy lifting in the middleware:
+Core middleware such as the api middleware
+Maximum decoupling, clear mental model, action types and a clear place for business logic and side effects to live.
